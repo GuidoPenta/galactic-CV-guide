@@ -4,7 +4,7 @@
 
 ## I Contenuti
 
-  1. [Types](#types)
+  1. [Indicazioni generali su CV](#Indicazioni generali sul CV)
   1. [References](#references)
   1. [Objects](#objects)
   1. [Arrays](#arrays)
