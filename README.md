@@ -4,16 +4,16 @@
 
 ## I Contenuti
 
-  1. [Indicazioni generali
-  2. [La foto]
-  3. [I contatti]
-  4. [Le esperienze professionali]
-  5. [Le competenze tecniche]
-  6. [Le soft skills]
-  7. [L'autorizzazione al trattamento dati]
-  8. [Altro boh]
-  9. [Altro boh]
-  10. [Considerazioni finali]
+  1. Indicazioni generali
+  2. La foto
+  3. I contatti
+  4. Le esperienze professionali
+  5. Le competenze tecniche
+  6. Le soft skills
+  7. L'autorizzazione al trattamento dati
+  8. Altro boh
+  9. Altro boh
+  10. Considerazioni finali
 
 
 ## Indicazioni generali
