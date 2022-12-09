@@ -17,3 +17,5 @@
 
 
 ## Indicazioni generali
+
+![one-page-CV](https://user-images.githubusercontent.com/119898224/206795412-99cb4e63-f28d-4bd5-a352-db915e3311bc.jpg)
