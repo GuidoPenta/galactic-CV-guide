@@ -14,3 +14,6 @@
   1. [Altro boh](#altro boh)
   1. [Altro boh](#altro boh)
   1. [Considerazioni finali](#considerazioni finali)
+
+
+## Indicazioni generali
