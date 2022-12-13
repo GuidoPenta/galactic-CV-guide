@@ -19,11 +19,14 @@
 Partiamo da un assunto fondamentale: il CV PERFETTO non esiste, così come non esiste "il CV a prova di ATS". 
 Le indicazioni che ti darò in questo progetto saranno di tipo sia tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
  
-Alcune tips utili per iniziare: 
-- E' bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno)
+Alcune tips utili prima di iniziare: 
+- E' bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno) per catturare subito l'interesse e l'attenzione di chi riceverà il documento. Content is king, ma anche l'occhio vuole la sua parte!
 - Come vedrete nell'esempio di CV in basso, redatto appositamente per questo progetto (sì, adoro Star Wars, si nota?), il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale state applicando
 - consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su <a href="https://www.canva.com/">Canva</a>, che contiene centinaia di template validi, ma potreste usare anche <a href="https://www.latextemplates.com/">LaTeX</a> o anche <a href="https://www.overleaf.com/">OverLeaf</a>)
-Tutto chiaro? Partiamo!
+
+Ecco un esempio di CV che ho creato appositamente. Ho scelto un template esteticamente molto minimal ma che, a mio avviso funziona.
+
+CV Luke Skywalker.png
 
 ## 2) La foto
 Lorem ipsum dolor sit amet.
