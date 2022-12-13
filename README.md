@@ -1,5 +1,5 @@
 # Guida Galattica per il CV
-*NOTA BENE, ANZI BENISSIMO: le indicazioni relative alla costruzione di un buon CV che troverete qui descritte valgono SOLO per l'Italia. Non ho esperienza con CV per aziende estere!*
+*Nota bene, anzi benissimo: questa Guida è incentrata sulla costruzione di un CV adatto al mercato del lavoro IT italiano. Successivamente, l'obiettivo è far crescere il progetto e scrivere guide anche in altre lingue e modificare le indicazioni, adattandole ad altre nazioni e relativi mercati.*
 
 
 ## I Contenuti
@@ -22,7 +22,11 @@
 
 Partiamo da un assunto fondamentale: il CV PERFETTO non esiste, così come non esiste "il CV a prova di ATS". 
 Le indicazioni che tento di dare in questo progetto saranno di tipo sia tecnico/qualitativo/estetico per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro. 
-Partiamo!
+Alcune tips ulteriori: 
+- E' bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggere un CV)
+- Come vedrete nell'esempio di CV in basso, redatto appositamente per questo progetto, il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale state applicando
+- consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su Canva, che contiene centinaia di template validi)
+Tutto chiaro? Partiamo!
 
 ## 2) La foto
 
