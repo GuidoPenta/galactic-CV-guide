@@ -1,7 +1,7 @@
 # Guida Galattica per il CV
 *Nota bene, anzi benissimo! Questa Guida è incentrata sulla costruzione di un CV adatto al mercato del lavoro IT italiano. Successivamente, l'obiettivo è far crescere il progetto e scrivere guide anche in altre lingue e modificare le indicazioni, adattandole ad altre nazioni e relativi mercati.*
 
-## Tabella dei Contenuti
+## Indice
   1. [Indicazioni Generali](#1-indicazioni-generali)
   2. [La Foto](#2-la-foto)
   3. [I Contatti](#3-i-contatti)
@@ -29,7 +29,16 @@ Ecco un esempio di CV che ho creato appositamente. Ho scelto un template estetic
 ![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker.png)
 
 ## 2) La foto
-Lorem ipsum dolor sit amet.
+Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che fornisco sempre è "fai come te pare". Ma, TI PREGO, se decidi di inserirla ricorda alcune semplici regole:
+- preferibile una foto a mezzo busto, fatta in modo professionale e dove sei ritratto di fronte
+- EVITA foto sgranate o molto vecchie
+- EVITA foto che ti ritraggono al mare, ad una festa, con cocktail/cagnolini/gattini/cose in mano
+- EVITA foto che sono evidentemente foto di gruppo che hai ritagliato (male)
+- EVITA foto ammiccanti, con vestiti succinti o provocanti. E' un CV, non un book per fare il/la modello/a.
+- Se non hai una tua foto professionale, va bene anche un avatar/illustrazione di te stesso (sei pur sempre un dev, un minimo di creatività va bene), ma cerca di tenerti sempre nei limiti del professionale
+C'è anche un dibattito riguardo il quale eliminando la foto si eliminerebbero dei bias inconsci su sesso, etnia, tratti somatici particolari e così via. Sono parzialmente d'accordo con questa filosofia, anche se comunque i bias ed i pregiudizi possono nascere da una moltitudine di cose (ad esempio: ti chiami Mario? Io ODIO chi si chiama Mario e ti scarto il CV) quindi ecco, eliminare la foto potrebbe eliminare una parte di bias riguardo "l'estetica" ma non li elimina tutti.
+Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha una regola definita. Sta a voi, ma basta seguire le indicazioni di cui sopra.
+
 
 ## 3) I Contatti
 Lorem ipsum dolor sit amet.
