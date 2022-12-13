@@ -26,7 +26,7 @@ Alcune tips utili prima di iniziare:
 
 Ecco un esempio di CV che ho creato appositamente. Ho scelto un template esteticamente molto minimal ma che, a mio avviso funziona.
 
-![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker.pdf)
+![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker.png)
 
 ## 2) La foto
 Lorem ipsum dolor sit amet.
