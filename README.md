@@ -4,7 +4,7 @@
 
 ## Indice dei contenuti
 
-  1. [Indicazioni generali](#indicazioni--generali)
+  1. [Indicazioni generali](#indicazioni-generali)
   2. La foto
   3. I contatti
   4. Le esperienze professionali
