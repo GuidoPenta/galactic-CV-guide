@@ -18,6 +18,8 @@
 
 ## Indicazioni generali
 
+<a name="types--"></a><a name="1"></a>
+
 ![one-page-CV](https://user-images.githubusercontent.com/119898224/206795412-99cb4e63-f28d-4bd5-a352-db915e3311bc.jpg)
 
 Partiamo da un assunto fondamentale: il CV PERFETTO non esiste, così come non esiste "il CV a prova di ATS". 
