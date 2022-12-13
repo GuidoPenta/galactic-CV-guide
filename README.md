@@ -2,9 +2,9 @@
 *Nota bene, anzi benissimo: questa Guida è incentrata sulla costruzione di un CV adatto al mercato del lavoro IT italiano. Successivamente, l'obiettivo è far crescere il progetto e scrivere guide anche in altre lingue e modificare le indicazioni, adattandole ad altre nazioni e relativi mercati.*
 
 
-## I Contenuti
+## Indice dei contenuti
 
-  1. Indicazioni generali
+  1. [Indicazioni generali](#indicazioni--generali)
   2. La foto
   3. I contatti
   4. Le esperienze professionali
@@ -16,7 +16,7 @@
   10. Considerazioni finali
 
 
-## 1) Indicazioni generali
+## Indicazioni generali
 
 ![one-page-CV](https://user-images.githubusercontent.com/119898224/206795412-99cb4e63-f28d-4bd5-a352-db915e3311bc.jpg)
 
