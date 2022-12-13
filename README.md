@@ -5,13 +5,14 @@
   1. [Indicazioni Generali](#1-indicazioni-generali)
   2. [La Foto](#2-la-foto)
   3. [I Contatti](#3-i-contatti)
-  4. [Le Esperienze Professionali](#4-le-esperienze-professionali)
-  5. [Le Competenze Tecniche](#5-le-competenze-tecniche)
-  6. [Le Soft Skills](#6-le-soft-skills)
-  7. [L'Autorizzazione al Trattamento Dati](#7-lautorizzazione-al-trattamento-dati)
-  8. [Altro](#8-altro)
-  9. [Altro](#9-altro)
-  10. [Considerazioni Finali](#10-considerazioni-finali)
+  4. [L'About me](#4-labout-me)
+  5. [Le Esperienze Professionali](#4-le-esperienze-professionali)
+  6. [Le Competenze Tecniche](#5-le-competenze-tecniche)
+  7. [Le Soft Skills](#6-le-soft-skills)
+  8. [L'Autorizzazione al Trattamento Dati](#7-lautorizzazione-al-trattamento-dati)
+  9. [Altro](#8-altro)
+  10. [Altro](#9-altro)
+  11. [Considerazioni Finali](#10-considerazioni-finali)
 
 ## Indicazioni Generali
 ![one-page-curriculum-vitae](./assets/images/one-page-curriculum-vitae.jpg)
@@ -42,25 +43,33 @@ Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha un
 
 
 ## 3) I Contatti
+Che tu ci creda o no, ricevo un sacco di CV senza, ad esempio, l'indirizzo mail e/o il numero di cellulare. FOLLIA! 
+Occhio alla sezione contatti, perché è FONDAMENTALE. Di grazia, se non abbiamo il tuo numero di telefono o la tua mail come ti contattiamo? Piccione viaggiatore?
+Anche qui, alcune semplici regole:
+- Ricorda di inserire tutti i contatti utili, come nel CV di esempio
+- scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
+- inserisci i link del tuo profilo Linkedin, Github (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla
+
+## 4) L'about me
 Lorem ipsum dolor sit amet.
 
-## 4) Le Esperienze Professionali
+## 5) Le esperienze professionali
 Lorem ipsum dolor sit amet.
 
-## 5) Le Competenze Tecniche
+## 6) Le competenze tecniche
 Lorem ipsum dolor sit amet.
 
-## 6) Le Soft Skills
+## 7) Le soft skills
 Lorem ipsum dolor sit amet.
 
-## 7) L'Autorizzazione al Trattamento Dati
-Lorem ipsum dolor sit amet.
-
-## 8) Altro
+## 8) L'autorizzazione al trattamento dati
 Lorem ipsum dolor sit amet.
 
 ## 9) Altro
 Lorem ipsum dolor sit amet.
 
-## 10) Considerazioni Finali
+## 10) Altro
+Lorem ipsum dolor sit amet.
+
+## 11) Considerazioni finali
 Lorem ipsum dolor sit amet.
