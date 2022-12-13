@@ -36,6 +36,7 @@ Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che f
 - EVITA foto che sono evidentemente foto di gruppo che hai ritagliato (male)
 - EVITA foto ammiccanti, con vestiti succinti o provocanti. E' un CV, non un book per fare il/la modello/a.
 - Se non hai una tua foto professionale, va bene anche un avatar/illustrazione di te stesso (sei pur sempre un dev, un minimo di creatività va bene), ma cerca di tenerti sempre nei limiti del professionale
+
 C'è anche un dibattito riguardo il quale eliminando la foto si eliminerebbero dei bias inconsci su sesso, etnia, tratti somatici particolari e così via. Sono parzialmente d'accordo con questa filosofia, anche se comunque i bias ed i pregiudizi possono nascere da una moltitudine di cose (ad esempio: ti chiami Mario? Io ODIO chi si chiama Mario e ti scarto il CV) quindi ecco, eliminare la foto potrebbe eliminare una parte di bias riguardo "l'estetica" ma non li elimina tutti.
 Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha una regola definita. Sta a voi, ma basta seguire le indicazioni di cui sopra.
 
