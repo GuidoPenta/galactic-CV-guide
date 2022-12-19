@@ -39,17 +39,20 @@ Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che f
 - EVITA foto ammiccanti, con vestiti succinti o provocanti. E' un CV, non un book per fare il/la modello/a.
 - Se non hai una tua foto professionale, va bene anche un avatar/illustrazione di te stesso (sei pur sempre un dev, un minimo di creatività va bene), ma cerca di tenerti sempre nei limiti del professionale
 
+<p align="justify">
 C'è anche un dibattito riguardo il quale eliminando la foto si eliminerebbero dei bias inconsci su sesso, etnia, tratti somatici particolari e così via. Sono parzialmente d'accordo con questa filosofia, anche se comunque i bias ed i pregiudizi possono nascere da una moltitudine di cose (ad esempio: ti chiami Mario? Io ODIO chi si chiama Mario e ti scarto il CV) quindi ecco, eliminare la foto potrebbe eliminare una parte di bias riguardo "l'estetica" ma non li elimina tutti.
 Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha una regola definita. Sta a voi, ma basta seguire le indicazioni di cui sopra.
-
+</p>
 
 ## 3) I Contatti
+<p align="justify">
 Che tu ci creda o no, ricevo un sacco di CV senza, ad esempio, l'indirizzo mail e/o il numero di cellulare. FOLLIA! 
 Occhio alla sezione contatti, perché è FONDAMENTALE. Di grazia, se non abbiamo il tuo numero di telefono o la tua mail come ti contattiamo? Piccione viaggiatore?
 Anche qui, alcune semplici regole:
 - Ricorda di inserire tutti i contatti utili, come nel CV di esempio
 - scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
 - inserisci i link del tuo profilo Linkedin, Github (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla
+</p>
 
 ## 4) L'about me
 Lorem ipsum dolor sit amet.
