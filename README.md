@@ -17,9 +17,10 @@
 ## Indicazioni Generali
 ![one-page-curriculum-vitae](./assets/images/one-page-curriculum-vitae.jpg)
 
+<p align="justify">
 Partiamo da un assunto fondamentale: il CV PERFETTO non esiste, così come non esiste "il CV a prova di ATS". 
 Le indicazioni che ti darò in questo progetto saranno di tipo sia tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
- 
+</p>
 Alcune tips utili prima di iniziare: 
 - E' bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno) per catturare subito l'interesse e l'attenzione di chi riceverà il documento. Content is king, ma anche l'occhio vuole la sua parte!
 - Come vedrete nell'esempio di CV in basso, redatto appositamente per questo progetto (sì, adoro Star Wars, si nota?), il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale state applicando
