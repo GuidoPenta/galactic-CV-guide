@@ -1,5 +1,5 @@
 # Guida Galattica per il CV
-*Nota bene, anzi nota BENISSIMO! Questa Guida è incentrata sulla costruzione di un CV adatto al mercato del lavoro IT italiano. Successivamente, l'obiettivo è far crescere il progetto e scrivere guide anche in altre lingue e modificare le indicazioni, adattandole ad altre nazioni e relativi mercati.*
+*Nota bene, anzi nota BENISSIMO! Questa Guida è incentrata sulla costruzione di un CV adatto al mercato del lavoro IT ITALIANO. Successivamente, l'obiettivo è far crescere il progetto e scrivere guide anche in altre lingue e modificare le indicazioni, adattandole ad altre nazioni e relativi mercati.*
 
 ## Indice
   1. [Indicazioni Generali](#1-indicazioni-generali)
