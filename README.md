@@ -29,7 +29,7 @@ Alcune tips utili prima di iniziare:
 
 Ecco un esempio di CV che ho creato appositamente. Ho scelto un template esteticamente molto minimal ma che, a mio avviso funziona.
 
-![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker_2.png)
+![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker-FE-Developer_v2.png)
 
 ## 2) La foto
 Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che fornisco sempre è "fai come te pare". Ma, TI PREGO, se decidi di inserirla ricorda alcune semplici regole:
