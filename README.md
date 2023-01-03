@@ -61,20 +61,23 @@ Lorem ipsum dolor sit amet.
 ## 5) Le esperienze professionali
 Lorem ipsum dolor sit amet.
 
-## 6) Le competenze tecniche
+## 6) La formazione
 Lorem ipsum dolor sit amet.
 
-## 7) Le soft skills
+## 7) Le competenze tecniche
 Lorem ipsum dolor sit amet.
 
-## 8) L'autorizzazione al trattamento dati
+## 8) Le soft skills
 Lorem ipsum dolor sit amet.
 
-## 9) Altro
+## 9) Corsi e certificazioni
 Lorem ipsum dolor sit amet.
 
-## 10) Altro
+## 10) Lingue ed hobby
 Lorem ipsum dolor sit amet.
 
-## 11) Considerazioni finali
+## 11) L'autorizzazione al trattamento dati
+Lorem ipsum dolor sit amet.
+
+## 12) Considerazioni finali
 Lorem ipsum dolor sit amet.
