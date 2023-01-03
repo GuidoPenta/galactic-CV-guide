@@ -56,10 +56,17 @@ Anche qui, alcune semplici regole:
 </p>
 
 ## 4) L'about me
-Lorem ipsum dolor sit amet.
+<p align="justify">
+  Questa sezione del CV è a dir poco FONDAMENTALE. Ti permetterà di riassumere in poche righe la tua esperienza professionale, le tecnologie/linguaggi che conosci o che stai approfondendo, i tuoi obiettivi lavorativi e personali e potresti anche fornire qualche spunto "extra" relativo magari a dei progetti personali che segui nel tempo libero, hobbies o altro che a tuo avviso potrebbe essere interessante. 
+  L'about me è una delle prime cose che chi valuta CV legge e permette di avere una prima overview di chi sei, cosa hai fatto e soprattutto cosa cerchi nel tuo futuro professionale. Nel CV di esempio di Luke potrai notare che l'about me ha sostanzialmente tutti gli elementi necessari: il job title attuale, le tecnologie/linguaggi che Luke conosce, segnala che gestisce un team di junior, scrive cosa cerca per il futuro. Inoltre, parla del suo interesse verso altre tematiche tecniche collegate al ruolo di FE ed infine fornisce una overview del suo tempo libero e dei suoi hobbies, che come vedremo nel paragrafo dedicato sono uno strumento interessante per un gancio di conversazione con chi dovrà valutarti.
+</p>
 
 ## 5) Le esperienze professionali
-Lorem ipsum dolor sit amet.
+<p align="justify">
+  Ovviamente le esperienze professionali sono il cuore di tutto il CV: in questa sezione l'obiettivo è di essere sintetici ma esaustivi nel raccontare cosa hai fatto nel tuo percorso professionale e valorizzare i progetti più rilevanti, le tecnologie utilizzate e molto altro. Nell'esempio del CV di Luke noterai una certa standardizzazione del layout, questo perché il CV costruito in questo modo risulterà più leggibile, più snello ma allo stesso tempo completo di tutte le info utili, come ad esempio:
+  - date di inizio e fine esperienza professionale, complete del nome dell'azienda
+  - Una crescita professionale coerente: nel cv di esempio il buon Luke inizia nel 2012 come FE Dev per poi crescere come Senior FE per poi arrivare all'ultima esperienza come Team Lead. Questa crescita professionale coerente salta all'occhio di un recruiter/selezionatore esperto e fornisce un'overview
+  - bullet point che descrivono sinteticamente ma in maniera efficace le mansioni principali, i progetti seguiti, le tecnologie utilizzate
 
 ## 6) La formazione
 Lorem ipsum dolor sit amet.
