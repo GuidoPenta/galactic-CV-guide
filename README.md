@@ -18,7 +18,7 @@
 ## Indicazioni Generali
 ![one-page-curriculum-vitae](./assets/images/one-page-curriculum-vitae.jpg)
 
-<p align="justify">
+
 Partiamo da un assunto fondamentale: il CV PERFETTO non esiste, così come non esiste "il CV a prova di ATS". 
 Le indicazioni che ti darò in questo progetto saranno di tipo sia tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
 Alcune tips utili prima di iniziare: 
