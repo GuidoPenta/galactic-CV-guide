@@ -65,12 +65,14 @@ Anche qui, alcune semplici regole:
 
 ## 5) Le esperienze professionali
 <p align="justify">
-  Ovviamente le esperienze professionali sono il cuore di tutto il CV: in questa sezione l'obiettivo è di essere sintetici ma esaustivi nel raccontare cosa hai fatto nel tuo percorso professionale e valorizzare i progetti più rilevanti, le tecnologie utilizzate e molto altro. Nell'esempio del CV di Luke noterai una certa standardizzazione del layout, questo perché il CV costruito in questo modo risulterà più leggibile, più snello ma allo stesso tempo completo di tutte le info utili, come ad esempio:
+  Ovviamente le esperienze professionali sono il cuore di tutto il CV: in questa sezione l'obiettivo principale è di trovare il giusto compromesso fra l'essere sintetici ma allo stesso tempo esaustivi nel raccontare cosa hai fatto nel tuo percorso professionale e valorizzare i progetti più rilevanti, le tecnologie utilizzate, etc. Nell'esempio del CV di Luke noterai una certa standardizzazione del layout, questo perché il CV costruito in questo modo risulterà più leggibile, più snello ma allo stesso tempo completo di tutte le info utili, come ad esempio:
   </p>
   
   - date di inizio e fine esperienza professionale, complete del nome dell'azienda
-  - Una crescita professionale coerente: nel cv di esempio il buon Luke inizia nel 2012 come FE Dev per poi crescere come Senior FE per poi arrivare all'ultima esperienza come Team Lead. Questa crescita professionale coerente salta all'occhio di un recruiter/selezionatore esperto e fornisce un'overview
-  - bullet point che descrivono sinteticamente ma in maniera efficace le mansioni principali, i progetti seguiti, le tecnologie utilizzate
+  - la dimostrazione di una crescita professionale coerente: nel cv di esempio il buon Luke inizia nel 2012 come FE Dev per poi crescere come Senior FE per poi arrivare all'ultima esperienza come Team Lead. Questa crescita professionale in termini di ruoli e responsabilità salta all'occhio di un recruiter/selezionatore esperto e fornisce un'overview
+  - bullet point che descrivono sinteticamente ma in maniera efficace le mansioni principali, i progetti seguiti, le tecnologie utilizzate ed altre informazioni a tuo avviso rilevanti per la specifica posizione che stai ricercando
+
+Naturalmente, il CV di esempio proposto è di un profilo senior, di conseguenza far emergere la crescita professionale ed in termini di responsabilità e mansioni svolte risulta più semplice perché gli anni di esperienza sono molteplici; tuttavia, anche per profili meno strutturati si possono evidenziare in modo efficace le stesse cose, approfondirò il tema nel paragrafo finale.
 
 ## 6) La formazione
 Lorem ipsum dolor sit amet.
