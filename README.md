@@ -19,8 +19,8 @@
 ![one-page-curriculum-vitae](./assets/images/one-page-curriculum-vitae.jpg)
 
 <p align="justify">
-Partiamo da un assunto fondamentale: il CV PERFETTO non esiste, così come non esiste "il CV a prova di ATS". 
-Le indicazioni che ti darò in questo progetto saranno di tipo sia tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
+Partiamo da un assunto fondamentale: il CV perfetto NON ESISTE, così come non esiste "il CV a prova di ATS". 
+Le indicazioni che ti darò in questo progetto saranno di tipo tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
 Alcune tips utili prima di iniziare: 
   </p>
   
@@ -29,13 +29,13 @@ Alcune tips utili prima di iniziare:
 - consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su <a href="https://www.canva.com/">Canva</a>, che contiene centinaia di template validi, ma potreste usare anche <a href="https://www.latextemplates.com/">LaTeX</a> o anche <a href="https://www.overleaf.com/">OverLeaf</a>)
 
 
-Ecco un esempio di CV che ho creato appositamente. Ho scelto un template esteticamente molto minimal ma che, a mio avviso funziona.
+Ecco quindi il CV: ho scelto un template esteticamente molto minimal ma che, a mio avviso funziona.
 
 ![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker-FE-Developer_v3.png)
 
 ## 2) La foto
-Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che fornisco sempre è "fai come te pare". Ma, TI PREGO, se decidi di inserirla ricorda alcune semplici regole:
-- preferibile una foto a mezzo busto, fatta in modo professionale e dove sei ritratto di fronte
+Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che fornisco sempre è "fai come ti pare". Ma, TI PREGO, se decidi di inserirla ricorda alcune semplici regole:
+- preferibile una foto a mezzo busto, fatta in modo professionale e dove sei ritratto di fronte o leggermente di lato
 - EVITA foto sgranate o molto vecchie
 - EVITA foto che ti ritraggono al mare, ad una festa, con cocktail/cagnolini/gattini/cose in mano
 - EVITA foto che sono evidentemente foto di gruppo che hai ritagliato (male)
@@ -44,7 +44,7 @@ Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che f
 
 <p align="justify">
 C'è anche un dibattito riguardo il quale eliminando la foto si eliminerebbero dei bias inconsci su sesso, etnia, tratti somatici particolari e così via. Sono parzialmente d'accordo con questa filosofia, anche se comunque i bias ed i pregiudizi possono nascere da una moltitudine di cose (ad esempio: ti chiami Mario? Io ODIO chi si chiama Mario e ti scarto il CV) quindi ecco, eliminare la foto potrebbe eliminare una parte di bias riguardo "l'estetica" ma non li elimina tutti.
-Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha una regola definita. Sta a voi, ma basta seguire le indicazioni di cui sopra.
+Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha una regola definita. Sta a te, ma basta seguire le indicazioni di cui sopra.
 </p>
 
 ## 3) I Contatti
