@@ -132,7 +132,7 @@ Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo pecc
   </p>
   
   <p align="justify">
-  Ad esempio, una persona che pratica sport estremi avrà probabilmente una sana propensione a superare i propri limiti, la curiosità di provare cose nuove e sicuramente coragggio. Una persona che pratica sport di squadra invece sarà sicuramente abituata a lavorare in team, a collaborare e tenderà a non essere un "lupo solitario". Gli hobby raccontano tantissimo di te, inseriscili nel CV!
+  Ad esempio, una persona che pratica sport estremi avrà probabilmente una sana propensione a superare i propri limiti, la curiosità di provare cose nuove e sicuramente coraggio. Una persona che pratica sport di squadra invece sarà sicuramente abituata a lavorare in team, a collaborare e tenderà a non essere un "lupo solitario". Gli hobby raccontano tantissimo di te, inseriscili nel CV!
   Riguardo le lingue poco da dire: siamo nel 2023, reputo FONDAMENTALE quanto meno conoscere un'altra lingua (preferibilmente l'inglese) oltre all'italiano. Anche in questo caso, eventuali certificazioni sulle lingue, se le hai, inseriscile nel CV in questa sezione.
   </p>
 
