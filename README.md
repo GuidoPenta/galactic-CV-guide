@@ -55,6 +55,7 @@ Anche qui, alcune semplici regole:
 - Ricorda di inserire tutti i contatti utili, come nel CV di esempio
 - scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
 - inserisci i link del tuo profilo Linkedin, Github (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla ogni volta.
+![Mail address](./assets/images/mail-address.png)
 </p>
 
 ## 4) L'about me
