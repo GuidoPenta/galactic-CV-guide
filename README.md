@@ -52,14 +52,17 @@ Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha un
 Che tu ci creda o no, ricevo un sacco di CV senza, ad esempio, l'indirizzo mail e/o il numero di cellulare. FOLLIA! 
 Occhio alla sezione contatti, perché è FONDAMENTALE. Di grazia, se non abbiamo il tuo numero di telefono o la tua mail come ti contattiamo? Piccione viaggiatore?
 Anche qui, alcune semplici regole:
+</p>
+
 - Ricorda di inserire tutti i contatti utili, come nel CV di esempio
 - scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
 - inserisci i link del tuo profilo Linkedin, Github (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla ogni volta.
-</p>
+
 
 ## 4) L'about me
 <p align="justify">
   Questa sezione del CV è a dir poco FONDAMENTALE. Ti permetterà di riassumere in poche righe la tua esperienza professionale, le tecnologie/linguaggi che conosci o che stai approfondendo, i tuoi obiettivi lavorativi e personali e potresti anche fornire qualche spunto "extra" relativo magari a dei progetti personali che segui nel tempo libero, hobbies o altro che a tuo avviso potrebbe essere interessante. 
+  
   L'about me è una delle prime cose che chi valuta CV legge e permette di avere una prima overview di chi sei, cosa hai fatto e soprattutto cosa cerchi nel tuo futuro professionale. Nel CV di esempio di Luke potrai notare che l'about me ha sostanzialmente tutti gli elementi necessari: il job title attuale, le tecnologie/linguaggi che Luke conosce, segnala che gestisce un team di junior, scrive cosa cerca per il futuro. Inoltre, parla del suo interesse verso altre tematiche tecniche collegate al ruolo di FE ed infine fornisce una overview del suo tempo libero e dei suoi hobbies, che come vedremo nel paragrafo dedicato sono uno strumento interessante per un gancio di conversazione con chi dovrà valutarti.
 </p>
 
@@ -76,13 +79,19 @@ Naturalmente, il CV di esempio proposto è di un profilo senior, di conseguenza 
 
 ## 6) La formazione
 <p align="justify">
-  Come potrai notare dal CV di esempio del buon Luke, ho solo inserito la laurea, relativo voto e titolo della tesi (interessante perché potrebbe aiutare a tirar fuori un eventuale spunto di conversazione con il/la recruiter). Ovvio che, in questo caso specifico, si tratta di un profilo senior quindi ho preferito inserire solo l'esperienza formativa relativa alla Laurea. Se invece sei un profilo junior ha assolutamente senso inserire anche il percorso di diploma e relativa votazione (ovviamente se non sei laureato, solo il diploma). Se stai frequentando l'Università, un PhD o la magistrale devi assolutamente inserirlo nel CV, per accedere ad uno stage curriculare ad esempio. In generale, ogni percorso formativo che si sta seguendo va segnalato nel CV per un doppio scopo: da un lato segnalare a chi valuta il CV che ti stai formando e seguendo un determinato percorso ed inoltre perché, sicuramente, avrai bisogno di un tot di ore di permessi studio per prepararti agli esami che poi dovrai sostenere, e questa è una informazione che chi ti sta valutando deve assolutamente avere!
+  Come potrai notare dal CV di esempio del buon Luke, ho solo inserito la laurea, relativo voto e titolo della tesi (interessante perché potrebbe aiutare a tirar fuori un eventuale spunto di conversazione con il/la recruiter). Ovvio che, in questo caso specifico, si tratta di un profilo senior quindi ho preferito inserire solo l'esperienza formativa relativa alla Laurea. 
+  
+  Se invece sei un profilo junior ha assolutamente senso inserire anche il percorso di diploma e relativa votazione (ovviamente se non sei laureato, solo il diploma). Se stai frequentando l'Università, un PhD o la magistrale devi assolutamente inserirlo nel CV, per accedere ad uno stage curriculare ad esempio. In generale, ogni percorso formativo che si sta seguendo va segnalato nel CV per un doppio scopo: da un lato segnalare a chi valuta il CV che ti stai formando e seguendo un determinato percorso ed inoltre perché, sicuramente, avrai bisogno di un tot di ore di permessi studio per prepararti agli esami che poi dovrai sostenere, e questa è una informazione che chi ti sta valutando deve assolutamente avere!
   Idem se stai seguendo una Academy/Bootcamp in ambito IT: è un percorso formativo (verticale sull'IT, ma pur sempre un percorso formativo) e va inserito, completo delle tecnologie che stai studiando, la data prevista di fine Academy ed il progetto/i progetti pratici sui quali ti sei "sporcato" le mani. 
   </p>
 
 ## 7) Le competenze tecniche
   <p align="justify">
-Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un "work in progress" o in maniera più grafica con una barra di avanzamento). Sarebbe decisamente preferibile elencarle inserendo nelle prime posizioni le tecnologie/linguaggi sui quali sei più esperto/a o che usi giornalmente, in modo tale da non "confondere" chi sta leggendo il tuo CV (se ti candidi come FE è decisamente sensato che come prime tecnologie/linguaggi in elenco ci siano linguaggi/FW di FE, per poi magari nelle ultime posizioni dell'elenco inserire linguaggi/FW di BE, database o altro).
+Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un "work in progress" o in maniera più grafica con una barra di avanzamento). 
+
+Sarebbe decisamente preferibile elencarle inserendo nelle prime posizioni le tecnologie/linguaggi sui quali sei più esperto/a o che usi giornalmente, in modo tale da non "confondere" chi sta leggendo il tuo CV (se ti candidi come FE è decisamente sensato che come prime tecnologie/linguaggi in elenco ci siano linguaggi/FW di FE, per poi magari nelle ultime posizioni dell'elenco inserire linguaggi/FW di BE, database o altro).
+
+
   E' inoltre estremanente utile per permettere agli ATS di attingere dalle keyword giuste relative alle tecnologie ricercate dall'azienda/selezionatore. L'ATS (applicant tracking system) non è altro che un software che aiuta chi fa selezione in tutta una serie di attività ripetitive ed a basso valore aggiunto e funge anche come database di CV e candidature, oltre che al multiposting di un annuncio di lavoro su più portali contemporaneamente. E' quindi importantissimo inserire nel CV tutte le parole chiave necessarie a far "risaltare" il CV fra i vari che l'azienda riceverà (sull'ATS ci sono una serie di falsi miti da sfatare assolutamente, in primis quello della "lettura automatica" del CV: i recruiter i CV li leggono tutti, ve lo assicuro. Semplicemente, l'ATS aiuta a filtrare i CV "più vicini" all'annuncio pubblicato).
   </p>
 
