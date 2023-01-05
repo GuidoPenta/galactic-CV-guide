@@ -91,6 +91,9 @@ Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa 
 Riguardo le soft skills ci sono varie scuole di pensiero: c'è chi pensa che per un lavoro "tecnico" come quello del dev siano inutili, c'è chi pensa che invece siano fondamentali. Personalmente, trovo che un qualsiasi professionista (quindi non solo un dev) debba costruire la propria professionalità al 50% su hard skills ed al 50% su soft skills: non si può pensare di essere un drago tecnicamente ma mancare totalmente di capacità comunicative, teamworking, empatia, propositività e molto altro. Contrariamente a quello che si pensa, il lavoro del dev non è un lavoro robotico, ma ha bisogno di una grandissima componente "umana" che risiede proprio nelle soft skills, che vanno nutrite e costruite, esattamente come le hard skills. 
   Reputo quindi importantissimo inserirle nel CV ma con un piccolo reminder: BASTA con le soft skills trite e ritrite, cerca di scrivere un elenco di soft skill "reali" o comunque calate davvero sulla tua personalità e modo di essere: se sei ad esempio una persona molto meticolosa e che ha bisogno di ordine e routine, probabilmente non sarai una persona che lavora bene sotto stress o in velocità (e non c'è nulla di male a non essere quel tipo di persona), quindi scrivere "lavoro bene sotto pressione" è falso (oltre che una delle soft skill trite e ritrite di cui sopra). 
   Nel CV di esempio, chiaramente, le soft skills che ho inserito sono volutamente goliardiche (come quasi tutto il resto del CV d'altronde). Ma riguardo questa sezione mi piacerebbe che tu facessi un piccolo "esercizio mentale" e trovassi le soft skill che, a tuo avviso, ti caratterizzano davvero. Possono essere un ottimo spunto di conversazione con chi ti valuterà!
+  
+  ![soft-skills](./assets/images/soft-skills.png)
+  
   </p>
 
 ## 9) Corsi e certificazioni
