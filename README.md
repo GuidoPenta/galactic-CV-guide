@@ -106,7 +106,12 @@ Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo pecc
   </p>
 
 ## 11) L'autorizzazione al trattamento dati
-Lorem ipsum dolor sit amet.
-
+<p align="justify">
+Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al trattamento dei dati personali presenti nel CV non è più dovuto. Questo significa che in base alla nuova normativa sulla privacy, non è obbligatorio includere il consenso al trattamento dei dati nel Curriculum Vitae. Ciascun candidato può scegliere liberamente di inserirlo o meno. Detto questo, consiglio comunque di inserire la frase che puoi tranquillamente copiare dal CV di esempio per diversi motivi:
+- Inserire l’Autorizzazione al Trattamento dei Dati Personali nel proprio Curriculum Vitae significa autorizzare chi riceve il CV (il datore di lavoro, i responsabili Risorse Umane e chi si occupa della selezione) al trattamento dei dati coperti e tutelati dalla legge sulla Privacy italiana e dal GDPR – Regolamento Generale sulla Protezione Dati, in vigore in tutti i paesi dell’Unione Europea dal 25 maggio 2018
+- Pur non essendo obbligatorio inserire l’autorizzazione al trattamento dei dati nel CV, è utile farlo perché si permette immediatamente al datore di lavoro di usare i propri dati personali per essere contattati per un colloquio oppure di conservarli per future selezioni.
+- Se il datore di lavoro riceve un CV privo di autorizzazione, deve richiedere al candidato l’autorizzazione fornendo tutti i dettagli sulle modalità di utilizzo dei dati. Solo dopo aver ricevuto questo consenso potrà utilizzarli, di conseguenza come puoi ben immaginare questo porta a lungaggini nell'iter di selezione ed un ulteriore "layer" di burocrazia che si può tranquillamente evitare! 
+  </p>
 ## 12) Considerazioni finali
+<p align="justify">
 Lorem ipsum dolor sit amet.
