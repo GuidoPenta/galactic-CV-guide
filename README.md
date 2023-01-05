@@ -81,8 +81,11 @@ Naturalmente, il CV di esempio proposto è di un profilo senior, di conseguenza 
 ## 6) La formazione
 <p align="justify">
   Come potrai notare dal CV di esempio del buon Luke, ho solo inserito la laurea, relativo voto e titolo della tesi (interessante perché potrebbe aiutare a tirar fuori un eventuale spunto di conversazione con il/la recruiter). Ovvio che, in questo caso specifico, si tratta di un profilo senior quindi ho preferito inserire solo l'esperienza formativa relativa alla Laurea. 
-  
+  </p>
+  <p align="justify">
   Se invece sei un profilo junior ha assolutamente senso inserire anche il percorso di diploma e relativa votazione (ovviamente se non sei laureato, solo il diploma). Se stai frequentando l'Università, un PhD o la magistrale devi assolutamente inserirlo nel CV, per accedere ad uno stage curriculare ad esempio. In generale, ogni percorso formativo che si sta seguendo va segnalato nel CV per un doppio scopo: da un lato segnalare a chi valuta il CV che ti stai formando e seguendo un determinato percorso ed inoltre perché, sicuramente, avrai bisogno di un tot di ore di permessi studio per prepararti agli esami che poi dovrai sostenere, e questa è una informazione che chi ti sta valutando deve assolutamente avere!
+  </p>
+  <p align="justify">
   Idem se stai seguendo una Academy/Bootcamp in ambito IT: è un percorso formativo (verticale sull'IT, ma pur sempre un percorso formativo) e va inserito, completo delle tecnologie che stai studiando, la data prevista di fine Academy ed il progetto/i progetti pratici sui quali ti sei "sporcato" le mani. 
   </p>
 
