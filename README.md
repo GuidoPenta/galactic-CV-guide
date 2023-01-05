@@ -98,7 +98,9 @@ Sarebbe decisamente preferibile elencarle inserendo nelle prime posizioni le tec
 ## 8) Le soft skills
    <p align="justify">
 Riguardo le soft skills ci sono varie scuole di pensiero: c'è chi pensa che per un lavoro "tecnico" come quello del dev siano inutili, c'è chi pensa che invece siano fondamentali. Personalmente, trovo che un qualsiasi professionista (quindi non solo un dev) debba costruire la propria professionalità al 50% su hard skills ed al 50% su soft skills: non si può pensare di essere un drago tecnicamente ma mancare totalmente di capacità comunicative, teamworking, empatia, propositività e molto altro. Contrariamente a quello che si pensa, il lavoro del dev non è un lavoro robotico, ma ha bisogno di una grandissima componente "umana" che risiede proprio nelle soft skills, che vanno nutrite e costruite, esattamente come le hard skills. 
+  
   Reputo quindi importantissimo inserirle nel CV ma con un piccolo reminder: BASTA con le soft skills trite e ritrite, cerca di scrivere un elenco di soft skill "reali" o comunque calate davvero sulla tua personalità e modo di essere: se sei ad esempio una persona molto meticolosa e che ha bisogno di ordine e routine, probabilmente non sarai una persona che lavora bene sotto stress o in velocità (e non c'è nulla di male a non essere quel tipo di persona), quindi scrivere "lavoro bene sotto pressione" è falso (oltre che una delle soft skill trite e ritrite di cui sopra). 
+  
   Nel CV di esempio, chiaramente, le soft skills che ho inserito sono volutamente goliardiche (come quasi tutto il resto del CV d'altronde). Ma riguardo questa sezione mi piacerebbe che tu facessi un piccolo "esercizio mentale" e trovassi le soft skill che, a tuo avviso, ti caratterizzano davvero. Possono essere un ottimo spunto di conversazione con chi ti valuterà!
   
   ![soft-skills](./assets/images/soft-skills.png)
@@ -108,12 +110,15 @@ Riguardo le soft skills ci sono varie scuole di pensiero: c'è chi pensa che per
 ## 9) Corsi e certificazioni
    <p align="justify">
 Molte aziende, come requisito mandatory per alcune posizioni, richiedono delle certificazioni specifiche. Di conseguenza, questa sezione è importante proprio per segnalare di aver completato determinati corsi o avere in mano delle certificazioni riconosciute, spesso anche a livello globale. E' inoltre una sezione utile per dimostrare il tuo impegno personale e la volontà di accrescere le tue competenze tecniche. 
+  
   Mi capita spesso, ad esempio, di trovare nei CV corsi e certificazioni sullo Scum/Agile/PM e le uso sempre come spunto di conversazione: spesso denotano una volontà, da parte della persona che sto colloquiando, di voler crescere professionalmente e quindi un segnale del tipo: "hey vedi, ho una certificazione da PM, è quello che voglio fare "da grande"! Ed è una cosa che apprezzo moltissimo :)
   </p>
 
 ## 10) Lingue ed hobby
    <p align="justify">
-Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo peccato! Personalmente la trovo la sezione più interessante (ed in alcuni casi, divertente) di tutto il CV. Mi permette di conoscere il professionista come persona, e non solo come tecnico. Mi fornisce inoltre un sacco di spunti di conversazione utili a carpire ulteriori punti di vista, modi di vedere le cose, obiettivi raggiungi e molto altro. Ad esempio, una persona che pratica sport estremi avrà probabilmente una sana propensione a superare i propri limiti, la curiosità di provare cose nuove e sicuramente coragggio. Una persona che pratica sport di squadra invece sarà sicuramente abituata a lavorare in team, a collaborare e tenderà a non essere un "lupo solitario". Gli hobby raccontano tantissimo di te, inseriscili nel CV!
+Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo peccato! Personalmente la trovo la sezione più interessante (ed in alcuni casi, divertente) di tutto il CV. Mi permette di conoscere il professionista come persona, e non solo come tecnico. Mi fornisce inoltre un sacco di spunti di conversazione utili a carpire ulteriori punti di vista, modi di vedere le cose, obiettivi raggiungi e molto altro. 
+  
+  Ad esempio, una persona che pratica sport estremi avrà probabilmente una sana propensione a superare i propri limiti, la curiosità di provare cose nuove e sicuramente coragggio. Una persona che pratica sport di squadra invece sarà sicuramente abituata a lavorare in team, a collaborare e tenderà a non essere un "lupo solitario". Gli hobby raccontano tantissimo di te, inseriscili nel CV!
   Riguardo le lingue poco da dire: siamo nel 2023, reputo FONDAMENTALE quanto meno conoscere un'altra lingua (preferibilmente l'inglese) oltre all'italiano. Anche in questo caso, eventuali certificazioni sulle lingue, se le hai, inseriscile nel CV in questa sezione.
   </p>
 
@@ -129,5 +134,6 @@ Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al tr
 ## 12) Considerazioni finali
 <p align="justify">
 Che dire in più? Se sei arrivato alla fine di questo pippone infinito sulla costruzione di un buon CV non ti resta altro che mettere in pratica le indicazioni fornite ed inviarlo alle aziende che ti interessano! 
+  
   Ricorda che il CV è una vetrina di te stesso: delle tue esperienze professionali prima di tutto, ma anche del tuo percorso formativo, delle tue passioni, delle tue sof skills e della tua volontà di trovare il "posto giusto" per te. Il CV non va visto quindi come una sterile lista della spesa di tecnologie/linguaggi/certificazioni ma in qualche modo deve riuscire a raccontare te stesso, in maniera certamente sintetica ma coerente. E' il primo biglietto da visita di te stesso che arriva nelle mani delle persone che, probabilmente, ti assumeranno e con le quali lavorarerai. Quindi, investi qualche ora nella costruzione del tuo CV e non te ne pentirai!
   </p>
