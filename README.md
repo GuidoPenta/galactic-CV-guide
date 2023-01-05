@@ -55,9 +55,6 @@ Anche qui, alcune semplici regole:
 - Ricorda di inserire tutti i contatti utili, come nel CV di esempio
 - scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
 - inserisci i link del tuo profilo Linkedin, Github (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla ogni volta.
-  
-![mail.address](./assets/images/mail-address.jpg)
-  
 </p>
 
 ## 4) L'about me
@@ -111,11 +108,14 @@ Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo pecc
 ## 11) L'autorizzazione al trattamento dati
 <p align="justify">
 Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al trattamento dei dati personali presenti nel CV non è più dovuto. Questo significa che in base alla nuova normativa sulla privacy, non è obbligatorio includere il consenso al trattamento dei dati nel Curriculum Vitae. Ciascun candidato può scegliere liberamente di inserirlo o meno. Detto questo, consiglio comunque di inserire la frase che puoi tranquillamente copiare dal CV di esempio per diversi motivi:
+  </p>
+  
 - Inserire l’Autorizzazione al Trattamento dei Dati Personali nel proprio Curriculum Vitae significa autorizzare chi riceve il CV (il datore di lavoro, i responsabili Risorse Umane e chi si occupa della selezione) al trattamento dei dati coperti e tutelati dalla legge sulla Privacy italiana e dal GDPR – Regolamento Generale sulla Protezione Dati, in vigore in tutti i paesi dell’Unione Europea dal 25 maggio 2018
 - Pur non essendo obbligatorio inserire l’autorizzazione al trattamento dei dati nel CV, è utile farlo perché si permette immediatamente al datore di lavoro di usare i propri dati personali per essere contattati per un colloquio oppure di conservarli per future selezioni.
 - Se il datore di lavoro riceve un CV privo di autorizzazione, deve richiedere al candidato l’autorizzazione fornendo tutti i dettagli sulle modalità di utilizzo dei dati. Solo dopo aver ricevuto questo consenso potrà utilizzarli, di conseguenza come puoi ben immaginare questo porta a lungaggini nell'iter di selezione ed un ulteriore "layer" di burocrazia che si può tranquillamente evitare! 
-  </p>
+
 ## 12) Considerazioni finali
 <p align="justify">
 Che dire in più? Se sei arrivato alla fine di questo pippone infinito sulla costruzione di un buon CV non ti resta altro che mettere in pratica le indicazioni fornite ed inviarlo alle aziende che ti interessano! 
   Ricorda che il CV è una vetrina di te stesso: delle tue esperienze professionali prima di tutto, ma anche del tuo percorso formativo, delle tue passioni, delle tue sof skills e della tua volontà di trovare il "posto giusto" per te. Il CV non va visto quindi come una sterile lista della spesa di tecnologie/linguaggi/certificazioni ma in qualche modo deve riuscire a raccontare te stesso, in maniera certamente sintetica ma coerente. E' il primo biglietto da visita di te stesso che arriva nelle mani delle persone che, probabilmente, ti assumeranno e con le quali lavorarerai. Quindi, investi qualche ora nella costruzione del tuo CV e non te ne pentirai!
+  </p>
