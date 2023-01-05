@@ -62,7 +62,8 @@ Anche qui, alcune semplici regole:
 ## 4) L'about me
 <p align="justify">
   Questa sezione del CV è a dir poco FONDAMENTALE. Ti permetterà di riassumere in poche righe la tua esperienza professionale, le tecnologie/linguaggi che conosci o che stai approfondendo, i tuoi obiettivi lavorativi e personali e potresti anche fornire qualche spunto "extra" relativo magari a dei progetti personali che segui nel tempo libero, hobbies o altro che a tuo avviso potrebbe essere interessante. 
-  
+  </p>
+<p align="justify">
   L'about me è una delle prime cose che chi valuta CV legge e permette di avere una prima overview di chi sei, cosa hai fatto e soprattutto cosa cerchi nel tuo futuro professionale. Nel CV di esempio di Luke potrai notare che l'about me ha sostanzialmente tutti gli elementi necessari: il job title attuale, le tecnologie/linguaggi che Luke conosce, segnala che gestisce un team di junior, scrive cosa cerca per il futuro. Inoltre, parla del suo interesse verso altre tematiche tecniche collegate al ruolo di FE ed infine fornisce una overview del suo tempo libero e dei suoi hobbies, che come vedremo nel paragrafo dedicato sono uno strumento interessante per un gancio di conversazione con chi dovrà valutarti.
 </p>
 
