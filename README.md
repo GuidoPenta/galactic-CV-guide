@@ -114,4 +114,5 @@ Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al tr
   </p>
 ## 12) Considerazioni finali
 <p align="justify">
-Lorem ipsum dolor sit amet.
+Che dire in più? Se sei arrivato alla fine di questo pippone infinito sulla costruzione di un buon CV non ti resta altro che mettere in pratica le indicazioni fornite ed inviarlo alle aziende che ti interessano! 
+  Ricorda che il CV è una vetrina di te stesso: delle tue esperienze professionali prima di tutto, ma anche del tuo percorso formativo, delle tue passioni, delle tue sof skills e della tua volontà di trovare il "posto giusto" per te. Il CV non va visto quindi come una sterile lista della spesa di tecnologie/linguaggi/certificazioni ma in qualche modo deve riuscire a raccontare te stesso, in maniera certamente sintetica ma coerente. E' il primo biglietto da visita di te stesso che arriva nelle mani delle persone che, probabilmente, ti assumeranno e con le quali lavorarerai. Quindi, investi qualche ora nella costruzione del tuo CV e non te ne pentirai!
