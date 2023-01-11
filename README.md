@@ -26,20 +26,20 @@ Alcune tips utili prima di iniziare:
   
 - È bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno) per catturare subito l'interesse e l'attenzione di chi riceverà il documento. Content is king, ma anche l'occhio vuole la sua parte!
 - Come vedrai nell'esempio di CV in basso, redatto appositamente per questo progetto (sì, adoro Star Wars, si nota?), il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale stai applicando
-- consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su [Canva](https://www.canva.com/), che contiene centinaia di template validi, ma potresti usare anche [LaTeX](https://www.latextemplates.com/) o anche [OverLeaf](https://www.overleaf.com/))
+- Consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su [Canva](https://www.canva.com/), che contiene centinaia di template validi, ma potresti usare anche [LaTeX](https://www.latextemplates.com/) o anche [OverLeaf](https://www.overleaf.com/))
 
 
-Ecco quindi il CV: ho scelto un template esteticamente molto minimal ma che, a mio avviso funziona.
+Ecco quindi il CV: ho scelto un template esteticamente molto minimal ma che, a mio avviso, funziona.
 
 ![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker-FE-Developer_v3.png)
 
 ## 2) La Foto
 Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che fornisco sempre è "fai come ti pare". Ma, TI PREGO, se decidi di inserirla ricorda alcune semplici regole:
-- preferibile una foto a mezzo busto, fatta in modo professionale e dove sei ritratto di fronte o leggermente di lato
+- Preferibile una foto a mezzo busto, fatta in modo professionale e dove sei ritratto di fronte o leggermente di lato
 - EVITA foto sgranate o molto vecchie
 - EVITA foto che ti ritraggono al mare, ad una festa, con cocktail/cagnolini/gattini/cose in mano
 - EVITA foto che sono evidentemente foto di gruppo che hai ritagliato (male)
-- EVITA foto ammiccanti, con vestiti succinti o provocanti. È un CV, non un book per fare il/la modello/a.
+- EVITA foto ammiccanti, con vestiti succinti o provocanti. È un CV, non un book per fare il/la modello/a
 - Se non hai una tua foto professionale, va bene anche un avatar/illustrazione di te stesso (sei pur sempre un dev, un minimo di creatività va bene), ma cerca di tenerti sempre nei limiti del professionale
 
 <p align="justify">
@@ -55,8 +55,8 @@ Anche qui, alcune semplici regole:
 </p>
 
 - Ricorda di inserire tutti i contatti utili, come nel CV di esempio
-- scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
-- inserisci i link del tuo profilo Linkedin, Github (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla ogni volta.
+- Scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
+- Inserisci i link del tuo profilo LinkedIn, GitHub (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla ogni volta
 
 
 ## 4) L'About Me
@@ -72,9 +72,9 @@ Anche qui, alcune semplici regole:
   Ovviamente le esperienze professionali sono il cuore di tutto il CV: in questa sezione l'obiettivo principale è di trovare il giusto compromesso fra l'essere sintetici ma allo stesso tempo esaustivi nel raccontare cosa hai fatto nel tuo percorso professionale e valorizzare i progetti più rilevanti, le tecnologie utilizzate, etc. Nell'esempio del CV di Luke noterai una certa standardizzazione del layout, questo perché il CV costruito in questo modo risulterà più leggibile, più snello ma allo stesso tempo completo di tutte le info utili, come ad esempio:
   </p>
   
-  - date di inizio e fine esperienza professionale, complete del nome dell'azienda
-  - la dimostrazione di una crescita professionale coerente: nel cv di esempio il buon Luke inizia nel 2012 come FE Dev per poi crescere come Senior FE per poi arrivare all'ultima esperienza come Team Lead. Questa crescita professionale in termini di ruoli e responsabilità salta all'occhio di un recruiter/selezionatore esperto e fornisce un'overview
-  - bullet point che descrivono sinteticamente ma in maniera efficace le mansioni principali, i progetti seguiti, le tecnologie utilizzate ed altre informazioni a tuo avviso rilevanti per la specifica posizione che stai ricercando
+  - Date di inizio e fine esperienza professionale, complete del nome dell'azienda
+  - La dimostrazione di una crescita professionale coerente: nel cv di esempio il buon Luke inizia nel 2012 come FE Dev per poi crescere come Senior FE per poi arrivare all'ultima esperienza come Team Lead. Questa crescita professionale in termini di ruoli e responsabilità salta all'occhio di un recruiter/selezionatore esperto e fornisce un'overview
+  - Bullet point che descrivono sinteticamente ma in maniera efficace le mansioni principali, i progetti seguiti, le tecnologie utilizzate ed altre informazioni a tuo avviso rilevanti per la specifica posizione che stai ricercando
 
 Naturalmente, il CV di esempio proposto è di un profilo senior, di conseguenza far emergere la crescita professionale ed in termini di responsabilità e mansioni svolte risulta più semplice perché gli anni di esperienza sono molteplici; tuttavia, anche per profili meno strutturati si possono evidenziare in modo efficace le stesse cose, approfondirò il tema nel paragrafo finale.
 
@@ -143,7 +143,7 @@ Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al tr
   </p>
   
 - Inserire l’Autorizzazione al Trattamento dei Dati Personali nel proprio Curriculum Vitae significa autorizzare chi riceve il CV (il datore di lavoro, i responsabili Risorse Umane e chi si occupa della selezione) al trattamento dei dati coperti e tutelati dalla legge sulla Privacy italiana e dal GDPR – Regolamento Generale sulla Protezione Dati, in vigore in tutti i paesi dell’Unione Europea dal 25 maggio 2018
-- Pur non essendo obbligatorio inserire l’autorizzazione al trattamento dei dati nel CV, è utile farlo perché si permette immediatamente al datore di lavoro di usare i propri dati personali per essere contattati per un colloquio oppure di conservarli per future selezioni.
+- Pur non essendo obbligatorio inserire l’autorizzazione al trattamento dei dati nel CV, è utile farlo perché si permette immediatamente al datore di lavoro di usare i propri dati personali per essere contattati per un colloquio oppure di conservarli per future selezioni
 - Se il datore di lavoro riceve un CV privo di autorizzazione, deve richiedere al candidato l’autorizzazione fornendo tutti i dettagli sulle modalità di utilizzo dei dati. Solo dopo aver ricevuto questo consenso potrà utilizzarli, di conseguenza come puoi ben immaginare questo porta a lungaggini nell'iter di selezione ed un ulteriore "layer" di burocrazia che si può tranquillamente evitare! 
 
 ## 12) Considerazioni Finali
