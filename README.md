@@ -19,7 +19,7 @@
 ![one-page-curriculum-vitae](./assets/images/one-page-curriculum-vitae.jpg)
 
 <p align="justify">
-Partiamo da un assunto fondamentale: il CV perfetto NON ESISTE, così come non esiste "il CV a prova di ATS". 
+Partiamo da un assunto fondamentale: il CV perfetto NON ESISTE, così come non esiste "il CV a prova di ATS" (Applicant Tracking System). 
 Le indicazioni che ti darò in questo progetto saranno di tipo tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
 Alcune tips utili prima di iniziare: 
   </p>
@@ -99,7 +99,7 @@ Sarebbe decisamente preferibile elencarle inserendo nelle prime posizioni le tec
    </p>
 
  <p align="justify">
-È inoltre estremanente utile per permettere agli ATS di attingere dalle keyword giuste relative alle tecnologie ricercate dall'azienda/selezionatore. L'ATS (applicant tracking system) non è altro che un software che aiuta chi fa selezione in tutta una serie di attività ripetitive ed a basso valore aggiunto e funge anche come database di CV e candidature, oltre che al multiposting di un annuncio di lavoro su più portali contemporaneamente. È quindi importantissimo inserire nel CV tutte le parole chiave necessarie a far "risaltare" il CV fra i vari che l'azienda riceverà (sull'ATS ci sono una serie di falsi miti da sfatare assolutamente, in primis quello della "lettura automatica" del CV: i recruiter i CV li leggono tutti, ve lo assicuro. Semplicemente, l'ATS aiuta a filtrare i CV "più vicini" all'annuncio pubblicato).
+È inoltre estremanente utile per permettere agli ATS di attingere dalle keyword giuste relative alle tecnologie ricercate dall'azienda/selezionatore. L'ATS non è altro che un software che aiuta chi fa selezione in tutta una serie di attività ripetitive ed a basso valore aggiunto e funge anche come database di CV e candidature, oltre che al multiposting di un annuncio di lavoro su più portali contemporaneamente. È quindi importantissimo inserire nel CV tutte le parole chiave necessarie a far "risaltare" il CV fra i vari che l'azienda riceverà (sull'ATS ci sono una serie di falsi miti da sfatare assolutamente, in primis quello della "lettura automatica" del CV: i recruiter i CV li leggono tutti, ve lo assicuro. Semplicemente, l'ATS aiuta a filtrare i CV "più vicini" all'annuncio pubblicato).
   </p>
 
 ## 8) Le Soft Skills
