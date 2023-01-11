@@ -26,7 +26,7 @@ Alcune tips utili prima di iniziare:
   
 - È bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno) per catturare subito l'interesse e l'attenzione di chi riceverà il documento. Content is king, ma anche l'occhio vuole la sua parte!
 - Come vedrai nell'esempio di CV in basso, redatto appositamente per questo progetto (sì, adoro Star Wars, si nota?), il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale stai applicando
-- consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su <a href="https://www.canva.com/">Canva</a>, che contiene centinaia di template validi, ma potresti usare anche <a href="https://www.latextemplates.com/">LaTeX</a> o anche <a href="https://www.overleaf.com/">OverLeaf</a>)
+- consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su [Canva](https://www.canva.com/), che contiene centinaia di template validi, ma potresti usare anche [LaTeX](https://www.latextemplates.com/) o anche [OverLeaf](https://www.overleaf.com/))
 
 
 Ecco quindi il CV: ho scelto un template esteticamente molto minimal ma che, a mio avviso funziona.
