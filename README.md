@@ -24,7 +24,7 @@ Le indicazioni che ti darò in questo progetto saranno di tipo tecnico/qualitati
 Alcune tips utili prima di iniziare: 
   </p>
   
-- E' bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno) per catturare subito l'interesse e l'attenzione di chi riceverà il documento. Content is king, ma anche l'occhio vuole la sua parte!
+- È bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno) per catturare subito l'interesse e l'attenzione di chi riceverà il documento. Content is king, ma anche l'occhio vuole la sua parte!
 - Come vedrai nell'esempio di CV in basso, redatto appositamente per questo progetto (sì, adoro Star Wars, si nota?), il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale stai applicando
 - consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su <a href="https://www.canva.com/">Canva</a>, che contiene centinaia di template validi, ma potresti usare anche <a href="https://www.latextemplates.com/">LaTeX</a> o anche <a href="https://www.overleaf.com/">OverLeaf</a>)
 
@@ -39,7 +39,7 @@ Riguardo l'annosa questione "ma la foto la metto o no nel CV?" la risposta che f
 - EVITA foto sgranate o molto vecchie
 - EVITA foto che ti ritraggono al mare, ad una festa, con cocktail/cagnolini/gattini/cose in mano
 - EVITA foto che sono evidentemente foto di gruppo che hai ritagliato (male)
-- EVITA foto ammiccanti, con vestiti succinti o provocanti. E' un CV, non un book per fare il/la modello/a.
+- EVITA foto ammiccanti, con vestiti succinti o provocanti. È un CV, non un book per fare il/la modello/a.
 - Se non hai una tua foto professionale, va bene anche un avatar/illustrazione di te stesso (sei pur sempre un dev, un minimo di creatività va bene), ma cerca di tenerti sempre nei limiti del professionale
 
 <p align="justify">
@@ -99,7 +99,7 @@ Sarebbe decisamente preferibile elencarle inserendo nelle prime posizioni le tec
    </p>
 
  <p align="justify">
-E' inoltre estremanente utile per permettere agli ATS di attingere dalle keyword giuste relative alle tecnologie ricercate dall'azienda/selezionatore. L'ATS (applicant tracking system) non è altro che un software che aiuta chi fa selezione in tutta una serie di attività ripetitive ed a basso valore aggiunto e funge anche come database di CV e candidature, oltre che al multiposting di un annuncio di lavoro su più portali contemporaneamente. E' quindi importantissimo inserire nel CV tutte le parole chiave necessarie a far "risaltare" il CV fra i vari che l'azienda riceverà (sull'ATS ci sono una serie di falsi miti da sfatare assolutamente, in primis quello della "lettura automatica" del CV: i recruiter i CV li leggono tutti, ve lo assicuro. Semplicemente, l'ATS aiuta a filtrare i CV "più vicini" all'annuncio pubblicato).
+È inoltre estremanente utile per permettere agli ATS di attingere dalle keyword giuste relative alle tecnologie ricercate dall'azienda/selezionatore. L'ATS (applicant tracking system) non è altro che un software che aiuta chi fa selezione in tutta una serie di attività ripetitive ed a basso valore aggiunto e funge anche come database di CV e candidature, oltre che al multiposting di un annuncio di lavoro su più portali contemporaneamente. È quindi importantissimo inserire nel CV tutte le parole chiave necessarie a far "risaltare" il CV fra i vari che l'azienda riceverà (sull'ATS ci sono una serie di falsi miti da sfatare assolutamente, in primis quello della "lettura automatica" del CV: i recruiter i CV li leggono tutti, ve lo assicuro. Semplicemente, l'ATS aiuta a filtrare i CV "più vicini" all'annuncio pubblicato).
   </p>
 
 ## 8) Le soft skills
@@ -119,7 +119,7 @@ Reputo quindi importantissimo inserirle nel CV ma con un piccolo reminder: BASTA
 
 ## 9) Corsi e certificazioni
    <p align="justify">
-Molte aziende, come requisito mandatory per alcune posizioni, richiedono delle certificazioni specifiche. Di conseguenza, questa sezione è importante proprio per segnalare di aver completato determinati corsi o avere in mano delle certificazioni riconosciute, spesso anche a livello globale. E' inoltre una sezione utile per dimostrare il tuo impegno personale e la volontà di accrescere le tue competenze tecniche. 
+Molte aziende, come requisito mandatory per alcune posizioni, richiedono delle certificazioni specifiche. Di conseguenza, questa sezione è importante proprio per segnalare di aver completato determinati corsi o avere in mano delle certificazioni riconosciute, spesso anche a livello globale. È inoltre una sezione utile per dimostrare il tuo impegno personale e la volontà di accrescere le tue competenze tecniche. 
   </p>
   
   <p align="justify">
@@ -150,5 +150,5 @@ Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al tr
 <p align="justify">
 Che dire in più? Se sei arrivato alla fine di questo pippone infinito sulla costruzione di un buon CV non ti resta altro che mettere in pratica le indicazioni fornite ed inviarlo alle aziende che ti interessano! 
   
-  Ricorda che il CV è una vetrina di te stesso: delle tue esperienze professionali prima di tutto, ma anche del tuo percorso formativo, delle tue passioni, delle tue sof skills e della tua volontà di trovare il "posto giusto" per te. Il CV non va visto quindi come una sterile lista della spesa di tecnologie/linguaggi/certificazioni ma in qualche modo deve riuscire a raccontare te stesso, in maniera certamente sintetica ma coerente. E' il primo biglietto da visita di te stesso che arriva nelle mani delle persone che, probabilmente, ti assumeranno e con le quali lavorarerai. Quindi, investi qualche ora nella costruzione del tuo CV e non te ne pentirai!
+  Ricorda che il CV è una vetrina di te stesso: delle tue esperienze professionali prima di tutto, ma anche del tuo percorso formativo, delle tue passioni, delle tue sof skills e della tua volontà di trovare il "posto giusto" per te. Il CV non va visto quindi come una sterile lista della spesa di tecnologie/linguaggi/certificazioni ma in qualche modo deve riuscire a raccontare te stesso, in maniera certamente sintetica ma coerente. È il primo biglietto da visita di te stesso che arriva nelle mani delle persone che, probabilmente, ti assumeranno e con le quali lavorarerai. Quindi, investi qualche ora nella costruzione del tuo CV e non te ne pentirai!
   </p>
