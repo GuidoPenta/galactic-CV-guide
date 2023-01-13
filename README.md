@@ -26,6 +26,7 @@ Alcune tips utili prima di iniziare:
   
 - È bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10-20 secondi per leggerne uno) per catturare subito l'interesse e l'attenzione di chi riceverà il documento. Content is king, ma anche l'occhio vuole la sua parte!
 - Come vedrai nell'esempio di CV in basso, redatto appositamente per questo progetto (sì, adoro Star Wars, si nota?), il CV dovrebbe essere sintetico ma esaustivo, contenente tutte le keyword necessarie per la posizione per la quale stai applicando
+- Occhio alla lingua nella quale è scritto l'annuncio! Se l'annuncio è scritto in inglese, è sempre meglio inviare il CV in inglese, se in italiano invialo in italiano. Avere due versioni del CV è cosa buona e giusta
 - Consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l'ho creato su [Canva](https://www.canva.com/), che contiene centinaia di template validi, ma potresti usare anche [LaTeX](https://www.latextemplates.com/) o anche [OverLeaf](https://www.overleaf.com/))
 
 
@@ -91,7 +92,7 @@ Naturalmente, il CV di esempio proposto è di un profilo senior, di conseguenza 
 
 ## 7) Le Competenze Tecniche
   <p align="justify">
-Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un "work in progress" o in maniera più grafica con una barra di avanzamento).
+Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un "work in progress" o in maniera più grafica con una barra di avanzamento). ATTENZIONE: molte aziende usano gli ATS, che potrebbero non riconoscere segni grafici (tipo le stelline o le barre di avanzamento relative a quanta competenza si ha su quella tecnologia). 
   </p>
 
  <p align="justify"> 
