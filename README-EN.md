@@ -31,7 +31,7 @@ Let's start with a fundamental assumption: the perfect CV does NOT EXIST, just a
 
 So here is the CV: I chose a template that is aesthetically very minimal but which, in my opinion, works very well.
 
-![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker-FE-Developer_v3.png)
+![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker-FE-Developer-ENG.png) 
 
 ## 2) The Photo
 
