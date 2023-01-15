@@ -9,7 +9,7 @@
   4. [About Me](#4-about-me)
   5. [Professional Experiences](#5-professional-experiences)
   6. [Training Experiences](#6-training-experiences)
-  7. [Tecn Skills](#7-tech-skills)
+  7. [Tech Skills](#7-tech-skills)
   8. [Soft Skills](#8-soft-skills)
   9. [Courses and Certifications](#9-courses-and-certifications)
   10. [Languages and Hobbies](#10-langueages-and-hobbies)
