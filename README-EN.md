@@ -1,4 +1,4 @@
-﻿# Guida Galattica per il CV
+﻿# Galactic CV Guide
 
 *First of all read this well, VERY WELL! This Guide is focused on building a CV suitable for the ITALIAN job market. Later, the goal is to grow the project and write guides in other languages as well and modify the directions, adapting them to other nations and related markets.*
 
