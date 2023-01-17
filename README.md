@@ -53,7 +53,7 @@ Ergo, la scelta di inserire o meno la foto nel CV è molto personale e non ha un
 ## 3) I Contatti
 <p align="justify">
 Che tu ci creda o no, ricevo un sacco di CV senza, ad esempio, l’indirizzo mail e/o il numero di cellulare. FOLLIA!
-Occhio alla sezione contatti, perché è FONDAMENTALE. Di grazia, se non abbiamo il tuo numero di telefono o la tua mail come ti contattiamo? Piccione viaggiatore?
+Occhio quindi alla sezione contatti, perché è FONDAMENTALE. Di grazia, se non abbiamo il tuo numero di telefono o la tua mail come ti contattiamo? Piccione viaggiatore?
 Anche qui, alcune semplici regole:
 </p>
 
