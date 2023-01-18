@@ -1,1 +1,1 @@
-WIP - Add a fantastic repo description
+Work in progress sulla nuova impostazione del repo :)
