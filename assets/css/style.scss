@@ -2,7 +2,8 @@
 ---
 
 @import '{{ site.theme }}';
-p {
+p,
+li {
   text-align: justify;
 }
 
