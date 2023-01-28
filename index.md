@@ -25,7 +25,7 @@ _Nota bene, anzi nota BENISSIMO! Questa Guida è incentrata sulla costruzione di
 ![one-page-curriculum-vitae](./assets/images/one-page-curriculum-vitae.jpg)
 
 Partiamo da un assunto fondamentale: il CV perfetto NON ESISTE, così come non esiste “il CV a prova di ATS” (Applicant Tracking System).
-Le indicazioni che ti darò in questo progetto saranno di tipo tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
+Le indicazioni che ti darò in questo progetto saranno di tipo tecnico/qualitativo/estetico, per darti la possibilità di costruire un CV funzionale ed attrattivo, contenente il giusto mix di parole chiave, descrizione delle esperienze professionali, soft skill e molto altro.
 Alcune tips utili prima di iniziare:
 
 - È bene cercare di costruire il CV di una sola pagina (un recruiter esperto ci mette 10–20 secondi per leggerne uno) per catturare subito l’interesse e l’attenzione di chi riceverà il documento. Content is king, ma anche l’occhio vuole la sua parte!
