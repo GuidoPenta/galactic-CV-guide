@@ -57,6 +57,7 @@ Che tu ci creda o no, ricevo un sacco di CV senza, ad esempio, l’indirizzo mai
 Occhio quindi alla sezione contatti, perché è FONDAMENTALE. Di grazia, se non abbiamo il tuo numero di telefono o la tua mail come ti contattiamo? Piccione viaggiatore?
 Anche qui, alcune semplici regole:
 
+- La sezione contatti andrebbe inserita immediatamente sotto la foto. Ricevo tantissimi CV con i contatti scritti in fondo al CV. No! I contatti devono essere immediatamente visibili ed utilizabili!
 - Ricorda di inserire tutti i contatti utili, come nel CV di esempio
 - Scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
 - Inserisci i link del tuo profilo LinkedIn, GitHub (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla ogni volta
