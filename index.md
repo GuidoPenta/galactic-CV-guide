@@ -39,7 +39,7 @@ Ecco quindi il CV: ho scelto un template esteticamente molto minimal ma che, a m
 
 ## 2) La Foto
 
-Riguardo l’annosa questione “ma la foto la metto o no nel CV?” la risposta che fornisco sempre è “fai come ti pare”. Ma, TI PREGO, se decidi di inserirla ricorda alcune semplici regole:
+Riguardo l’annosa questione “ma la foto la metto o no nel CV?” La risposta che fornisco sempre è “fai come ti pare”. Ma, TI PREGO, se decidi di inserirla ricorda alcune semplici regole:
 
 - Preferibile una foto a mezzo busto, fatta in modo professionale e dove sei ritratto di fronte o leggermente di lato
 - EVITA foto sgranate o molto vecchie
@@ -57,7 +57,7 @@ Che tu ci creda o no, ricevo un sacco di CV senza, ad esempio, l’indirizzo mai
 Occhio quindi alla sezione contatti, perché è FONDAMENTALE. Di grazia, se non abbiamo il tuo numero di telefono o la tua mail come ti contattiamo? Piccione viaggiatore?
 Anche qui, alcune semplici regole:
 
-- La sezione contatti andrebbe inserita immediatamente sotto la foto. Ricevo tantissimi CV con i contatti scritti in fondo al CV. No! I contatti devono essere immediatamente visibili ed utilizabili!
+- La sezione contatti andrebbe inserita immediatamente sotto la foto. Ricevo tantissimi CV con i contatti scritti in fondo al CV. No! I contatti devono essere immediatamente visibili ed utilizzabili!
 - Ricorda di inserire tutti i contatti utili, come nel CV di esempio
 - Scegli un indirizzo mail professionale (evitiamo le mail tipo diavoletto88 oppure bananakiller83)
 - Inserisci i link del tuo profilo LinkedIn, GitHub (e se hai portfolio online anche di quello). Rendi questi link cliccabili per agevolare chi legge il tuo CV ad una rapida apertura del link senza dover fare copia-incolla ogni volta
@@ -88,11 +88,11 @@ Idem se stai seguendo una Academy/Bootcamp in ambito IT: è un percorso formativ
 
 ## 7) Le Competenze Tecniche
 
-Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un “work in progress” o in maniera più grafica con una barra di avanzamento). ATTENZIONE: molte aziende usano gli ATS, che potrebbero non riconoscere segni grafici (tipo le stelline o le barre di avanzamento relative a quanta competenza si ha su quella tecnologia).
+Assieme alle esperienze professionali, il cuore di ogni CV, nel tuo caso questa sezione è decisamente importantissima. Ti permette chiaramente di elencare in maniera ordinata e sintetica tutte le competenze tecniche che hai acquisito (o che stai acquisendo, segnalandole magari con un “work in progress” o in maniera più grafica con una barra di avanzamento). ATTENZIONE: molte aziende usano gli ATS, che potrebbero non riconoscere segni grafici (tipo le stelline o le barre di avanzamento relative a quanta competenza si ha su quella tecnologia).
 
 Sarebbe decisamente preferibile elencarle inserendo nelle prime posizioni le tecnologie/linguaggi sui quali sei più esperto/a o che usi giornalmente, in modo tale da non “confondere” chi sta leggendo il tuo CV (se ti candidi come FE è decisamente sensato che come prime tecnologie/linguaggi in elenco ci siano linguaggi/FW di FE, per poi magari nelle ultime posizioni dell’elenco inserire linguaggi/FW di BE, database o altro).
 
-È inoltre estremanente utile per permettere agli ATS di attingere dalle keyword giuste relative alle tecnologie ricercate dall’azienda/selezionatore. L’ATS non è altro che un software che aiuta chi fa selezione in tutta una serie di attività ripetitive ed a basso valore aggiunto e funge anche come database di CV e candidature, oltre che al multiposting di un annuncio di lavoro su più portali contemporaneamente. È quindi importantissimo inserire nel CV tutte le parole chiave necessarie a far “risaltare” il CV fra i vari che l’azienda riceverà (sull’ATS ci sono una serie di falsi miti da sfatare assolutamente, in primis quello della “lettura automatica” del CV: i recruiter i CV li leggono tutti, ve lo assicuro. Semplicemente, l’ATS aiuta a filtrare i CV “più vicini” all’annuncio pubblicato).
+È inoltre estremamente utile per permettere agli ATS di attingere dalle keyword giuste relative alle tecnologie ricercate dall’azienda/selezionatore. L’ATS non è altro che un software che aiuta chi fa selezione in tutta una serie di attività ripetitive ed a basso valore aggiunto e funge anche come database di CV e candidature, oltre che al multiposting di un annuncio di lavoro su più portali contemporaneamente. È quindi importantissimo inserire nel CV tutte le parole chiave necessarie a far “risaltare” il CV fra i vari che l’azienda riceverà (sull’ATS ci sono una serie di falsi miti da sfatare assolutamente, in primis quello della “lettura automatica” del CV: i recruiter i CV li leggono tutti, ve lo assicuro. Semplicemente, l’ATS aiuta a filtrare i CV “più vicini” all’annuncio pubblicato).
 
 ## 8) Le Soft Skills
 
@@ -129,4 +129,4 @@ Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al tr
 
 Che dire in più? Se sei arrivato alla fine di questo pippone infinito sulla costruzione di un buon CV non ti resta altro che mettere in pratica le indicazioni fornite ed inviarlo alle aziende che ti interessano!
 
-Ricorda che il CV è una vetrina di te stesso: delle tue esperienze professionali prima di tutto, ma anche del tuo percorso formativo, delle tue passioni, delle tue soft skills e della tua volontà di trovare il “posto giusto” per te. Il CV non va visto quindi come una sterile lista della spesa di tecnologie/linguaggi/certificazioni ma in qualche modo deve riuscire a raccontare te stesso, in maniera certamente sintetica ma coerente. È il primo biglietto da visita di te stesso che arriva nelle mani delle persone che, probabilmente, ti assumeranno e con le quali lavorarerai. Quindi, investi qualche ora nella costruzione del tuo CV e non te ne pentirai!
+Ricorda che il CV è una vetrina di te stesso: delle tue esperienze professionali prima di tutto, ma anche del tuo percorso formativo, delle tue passioni, delle tue soft skills e della tua volontà di trovare il “posto giusto” per te. Il CV non va visto quindi come una sterile lista della spesa di tecnologie/linguaggi/certificazioni ma in qualche modo deve riuscire a raccontare te stesso, in maniera certamente sintetica ma coerente. È il primo biglietto da visita di te stesso che arriva nelle mani delle persone che, probabilmente, ti assumeranno e con le quali lavorerai. Quindi, investi qualche ora nella costruzione del tuo CV e non te ne pentirai!
