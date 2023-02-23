@@ -33,6 +33,27 @@ Alcune tips utili prima di iniziare:
 - Occhio alla lingua nella quale è scritto l’annuncio! Se l’annuncio è scritto in inglese, è sempre meglio inviare il CV in inglese, se in italiano invialo in italiano. Avere due versioni del CV è cosa buona e giusta
 - Consiglio VIVAMENTE di non utilizzare il formato Europass, ormai datato e senza alcuna possibilità di personalizzazione grafica (il CV di esempio l’ho creato su [Canva](https://www.canva.com/), che contiene centinaia di template validi, ma potresti usare anche [LaTeX](https://www.latextemplates.com/) o anche [OverLeaf](https://www.overleaf.com/))
 
+Ti aggiungo inoltre alcune considerazioni più "personali" sulle quali dovresti riflettere, prendendo spunto da un post di Roberta Zantedeschi, che trovi [QUI](https://www.linkedin.com/posts/robertazantedeschi_cv-curriculum-parolepersonelavoro-activity-7034528956879974400-kGoE?utm_source=share&utm_medium=member_desktop)
+Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV?
+- in primis poca connessione e conoscenza di te
+- scarsa stima del tuo valore e delle tue risorse
+- idee poco chiare rispetto a ciò che stai cercando, a chi stai parlando, alla direzione che vuoi perseguire
+- urgenza (scriverlo quando sei nel bisogno e non nella presenza a te e ai tuoi obiettivi)
+- poca cura della struttura, della gerarchia delle informazioni e della componente grafica e visual
+- difficoltà a selezionare le informazioni che servono (scartando quelle che non aggiungono valore)
+- convinzione talebana che il CV debba stare in una pagina, a tutti i costi
+- convinzione che tanto c'è LinkedIn e il CV non serve a niente
+- pensare che basti solo il #CV in pdf per cercare e trovare lavoro
+- non metterti nei panni di chi legge
+- limitarti a descrivere e non raccontare niente
+- escludere qualsiasi informazione di carattere personale (ma anche esagerare con i fatti tuoi)
+- e infine un utilizzo di parole, frasi, modi di dire tipici di un mansionario o di una circolare aziendale (la scrittura è importante, non solo la correttezza grammaticale)
+
+
+Questi ostacoli sono alla base di moltissimi Curricula poco efficaci, indifferenziati e un po' ovvi.
+
+Per scrivere un buon CV (e il CV serve ancora, credimi) si parte dalla consapevolezza di sé e, attraverso un percorso che tocca diverse tappe, si arriva alla capacità di esprimere chi si é, il valore che si porta, le competenze maturate e i propri obiettivi in modo credibile e convincente.
+
 Ecco quindi il CV: ho scelto un template esteticamente molto minimal ma che, a mio avviso, funziona.
 
 ![CV-Luke-Skywalker](./assets/images/CV-Luke-Skywalker-FE-Developer_v3.png)
