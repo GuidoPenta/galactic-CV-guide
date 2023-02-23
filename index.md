@@ -35,6 +35,7 @@ Alcune tips utili prima di iniziare:
 
 Ti aggiungo inoltre alcune considerazioni più "personali" sulle quali dovresti riflettere, prendendo spunto da un post di Roberta Zantedeschi, che trovi [QUI](https://www.linkedin.com/posts/robertazantedeschi_cv-curriculum-parolepersonelavoro-activity-7034528956879974400-kGoE?utm_source=share&utm_medium=member_desktop)
 
+
 Quali sono i principali ostacoli che potresti incontrare quando scrivi il tuo CV?
 - in primis poca connessione e conoscenza di te
 - scarsa stima del tuo valore e delle tue risorse
