@@ -1,4 +1,4 @@
-# Guida Galattica per il CV
+# Guida Galattica per il CV / Galactic CV Guide
 
 > [English version](./docs/english.md)
 
