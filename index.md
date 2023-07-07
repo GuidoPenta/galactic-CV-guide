@@ -133,7 +133,7 @@ Mi capita spesso, ad esempio, di trovare nei CV corsi e certificazioni sullo Scu
 
 ## 10) Lingue e Hobby
 
-Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo peccato! Personalmente la trovo la sezione più interessante (ed in alcuni casi, divertente) di tutto il CV. Mi permette di conoscere il professionista come persona, e non solo come tecnico. Mi fornisce inoltre un sacco di spunti di conversazione utili a carpire ulteriori punti di vista, modi di vedere le cose, obiettivi raggiungi e molto altro.
+Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo peccato! Personalmente la trovo la sezione più interessante (ed in alcuni casi, divertente) di tutto il CV. Mi permette di conoscere il professionista come persona, e non solo come tecnico. Mi fornisce inoltre un sacco di spunti di conversazione utili a carpire ulteriori punti di vista, modi di vedere le cose, obiettivi raggiunti e molto altro.
 
 Ad esempio, una persona che pratica sport estremi avrà probabilmente una sana propensione a superare i propri limiti, la curiosità di provare cose nuove e sicuramente coraggio. Una persona che pratica sport di squadra invece sarà sicuramente abituata a lavorare in team, a collaborare e tenderà a non essere un “lupo solitario”. Gli hobby raccontano tantissimo di te, inseriscili nel CV!
 Riguardo le lingue poco da dire: siamo nel 2023, reputo FONDAMENTALE quanto meno conoscere un’altra lingua (preferibilmente l’inglese) oltre all’italiano. Anche in questo caso, eventuali certificazioni sulle lingue, se le hai, inseriscile nel CV in questa sezione.
