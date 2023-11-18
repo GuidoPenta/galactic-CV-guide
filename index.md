@@ -16,9 +16,10 @@ _Nota bene, anzi nota BENISSIMO! Questa Guida è incentrata sulla costruzione di
 7. [Le Competenze Tecniche](#7-le-competenze-tecniche)
 8. [Le Soft Skills](#8-le-soft-skills)
 9. [Corsi e Certificazioni](#9-corsi-e-certificazioni)
-10. [Lingue e Hobby](#10-lingue-e-hobby)
-11. [L’Autorizzazione al Trattamento Dati](#11-lautorizzazione-al-trattamento-dati)
-12. [Considerazioni Finali](#12-considerazioni-finali)
+10. [Pubblicazioni](#10-pubblicazioni)
+11. [Lingue e Hobby](#11-lingue-e-hobby)
+12. [L’Autorizzazione al Trattamento Dati](#12-lautorizzazione-al-trattamento-dati)
+13. [Considerazioni Finali](#13-considerazioni-finali)
 
 ## 1) Indicazioni Generali
 
@@ -131,14 +132,20 @@ Molte aziende, come requisito mandatory per alcune posizioni, richiedono delle c
 
 Mi capita spesso, ad esempio, di trovare nei CV corsi e certificazioni sullo Scum/Agile/PM e le uso sempre come spunto di conversazione: spesso denotano una volontà, da parte della persona che sto colloquiando, di voler crescere professionalmente e quindi un segnale del tipo: “hey vedi, ho una certificazione da PM, è quello che voglio fare ‘da grande’”! Ed è una cosa che apprezzo moltissimo :)
 
-## 10) Lingue e Hobby
+## 10) Pubblicazioni
+
+Un'altra importante sezione che potete aggiungere nel vostro CV sono le pubblicazioni fatte. Oltre ad essere super utili, se non essenziali, per una carriera accademica, sono viste di buono occhio anche in altri ambiti poiché non solo indicano elevata competenza tecnica in un determinato settore ma anche riflettono la capacita di analizzare situazione complesse e innovative, in quanto si propongono nuove idee e soluzioni a determinati problemi.
+
+Se hai contribuito a riviste, conferenze o hai pubblicato articoli online, assicurati di elencarli in questa sezione. Fornisci dettagli quali titolo dell'articolo; data di pubblicazione; lista autori; ente/rivista dove è stato pubblicato e infine il [Digital Object Identifier (DOI)](https://www.doi.org). 
+
+## 11) Lingue e Hobby
 
 Il 90% dei CV che ricevo NON ha la sezione hobby e per me è un grandissimo peccato! Personalmente la trovo la sezione più interessante (ed in alcuni casi, divertente) di tutto il CV. Mi permette di conoscere il professionista come persona, e non solo come tecnico. Mi fornisce inoltre un sacco di spunti di conversazione utili a carpire ulteriori punti di vista, modi di vedere le cose, obiettivi raggiunti e molto altro.
 
 Ad esempio, una persona che pratica sport estremi avrà probabilmente una sana propensione a superare i propri limiti, la curiosità di provare cose nuove e sicuramente coraggio. Una persona che pratica sport di squadra invece sarà sicuramente abituata a lavorare in team, a collaborare e tenderà a non essere un “lupo solitario”. Gli hobby raccontano tantissimo di te, inseriscili nel CV!
 Riguardo le lingue poco da dire: siamo nel 2023, reputo FONDAMENTALE quanto meno conoscere un’altra lingua (preferibilmente l’inglese) oltre all’italiano. Anche in questo caso, eventuali certificazioni sulle lingue, se le hai, inseriscile nel CV in questa sezione.
 
-## 11) L’Autorizzazione al Trattamento Dati
+## 12) L’Autorizzazione al Trattamento Dati
 
 Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al trattamento dei dati personali presenti nel CV non è più dovuto. Questo significa che in base alla nuova normativa sulla privacy, non è obbligatorio includere il consenso al trattamento dei dati nel Curriculum Vitae. Ciascun candidato può scegliere liberamente di inserirlo o meno. Detto questo, consiglio comunque di inserire la frase che puoi tranquillamente copiare dal CV di esempio per diversi motivi:
 
@@ -146,7 +153,7 @@ Il Decreto Legislativo 10 agosto 2018, n. 101 ha stabilito che il consenso al tr
 - Pur non essendo obbligatorio inserire l’autorizzazione al trattamento dei dati nel CV, è utile farlo perché si permette immediatamente al datore di lavoro di usare i propri dati personali per essere contattati per un colloquio oppure di conservarli per future selezioni
 - Se il datore di lavoro riceve un CV privo di autorizzazione, deve richiedere al candidato l’autorizzazione fornendo tutti i dettagli sulle modalità di utilizzo dei dati. Solo dopo aver ricevuto questo consenso potrà utilizzarli, di conseguenza come puoi ben immaginare questo porta a lungaggini nell’iter di selezione ed un ulteriore “layer” di burocrazia che si può tranquillamente evitare!
 
-## 12) Considerazioni Finali
+## 13) Considerazioni Finali
 
 Che dire in più? Se sei arrivato alla fine di questo pippone infinito sulla costruzione di un buon CV non ti resta altro che mettere in pratica le indicazioni fornite ed inviarlo alle aziende che ti interessano!
 
