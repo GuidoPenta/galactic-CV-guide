@@ -15,9 +15,10 @@ _First of all read this well, VERY WELL! This Guide is focused on building a CV 
 7. [Tech Skills](#7-tech-skills)
 8. [Soft Skills](#8-soft-skills)
 9. [Courses and Certifications](#9-courses-and-certifications)
-10. [Languages and Hobbies](#10-langueages-and-hobbies)
-11. [Data Processing Authorization ](#11-data-processiong-authorization)
-12. [Final Considerations](#12-final-considerations)
+10. [Publications](#10-publications)
+11. [Languages and Hobbies](#11-languages-and-hobbies)
+12. [Data Processing Authorization](#12-data-processing-authorization)
+13. [Final Considerations](#13-final-considerations)
 
 ## 1) General info
 
@@ -102,13 +103,19 @@ Many companies, as a mandatory requirement for some positions, require specific 
 
 I often come across courses and certifications on Scum/Agile/PM in CVs, for example, and I always use them as a conversation starter: they often denote a willingness on the part of the person I'm interviewing to want to grow professionally and thus a signal like, "hey see, I have a PM certification, that's what I want to do 'when I grow up'!" And that's something I really appreciate :)
 
-## 10) Languages and hobbies
+## 10) Publications
+
+Another important section you can add to your CV are the publications you have done. In addition to being super useful, if not essential, for an academic career, they are also looked upon favorably in other areas because they not only indicate high technical competence in a given field but also reflect the ability to analyze complex and innovative situations, as new ideas and solutions to given problems are proposed.
+
+If you have contributed to journals, conferences, or published articles online, be sure to list them in this section. Provide details such as title of the article; publication date; authors' list; institution/magazine where it was published and finally the [Digital Object Identifier (DOI)](https://www.doi.org).
+
+## 11) Languages and hobbies
 
 Ninety percent of the CVs I receive do NOT have a hobbies section, and to me that is a huge shame! I personally find it the most interesting (and in some cases, fun) section of the entire CV. It allows me to get to know the professional as a person, and not just as a technician. It also provides me with a lot of useful conversation starters to glean additional points of view, ways of looking at things, goals achieved, and more.
 
 For example, a person who plays extreme sports will likely have a healthy propensity to push their limits, curiosity to try new things, and certainly courage. A person who plays team sports, on the other hand, will definitely be used to working in teams, collaborating, and will tend not to be a "lone wolf." Hobbies tell so much about you, include them in your CV! About languages little to say: this is 2023, I consider it FUNDAMENTAL to at least know another language (preferably English) besides Italian. Again, any certifications on languages, if you have them, include them in your CV in this section.
 
-## 11) Data Processing Authorization
+## 12) Data Processing Authorization
 
 Legislative Decree No. 101 of August 10, 2018, established that consent to the processing of personal data in the CV is no longer required. This means that under the new privacy legislation, it is not mandatory to include the data processing consent in the CV. Each candidate can freely choose to include it or not. Having said that, I still recommend including the sentence that you can safely copy from the sample CV for several reasons:
 
@@ -116,7 +123,7 @@ Legislative Decree No. 101 of August 10, 2018, established that consent to the p
 - While it is not compulsory to include the data processing authorization in the CV, it is useful to do so because you immediately allow the employer to use your personal data to be contacted for an interview or to keep it for future selections
 - If the employer receives a CV without authorization, he or she must request the candidate's authorization by providing full details on how the data will be used. Only after receiving this consent can it use them, consequently as you can well imagine this leads to delays in the selection process and an additional "layer" of bureaucracy that can be safely avoided!
 
-## 12) Final considerations
+## 13) Final considerations
 
 What more to say? If you have reached the end of this never-ending rant on building a good CV all that remains is to put into practice the directions provided and send it to the companies that interest you!
 
